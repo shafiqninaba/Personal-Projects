@@ -3,7 +3,7 @@
 This is a natural language processing project that uses a trained machine learning model to generate the next 50 words after being given a text of length 25 words from the story of Moby Dick by Herman Melville.
 
 ## Getting Started
-
+The project was coded in Jupyter Notebook, hence having the dataset and the .h5 model file in the same location as the notebook should work.
 
 ### Prerequisites
 Libraries required:
