@@ -19,5 +19,5 @@ nltk.download('vader_lexicon')
 ```
 
 ## Acknowledgments
-* Pieran Data
+* Pierian Data
 
