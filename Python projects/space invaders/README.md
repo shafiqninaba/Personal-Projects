@@ -3,7 +3,7 @@
 A simple game of Space Invaders made using Pygame.
 
 ## Getting Started
-###Controls:
+<h3>Controls:</h3>
 
 Player 1: WASD to move, LCTRL to shoot
 
