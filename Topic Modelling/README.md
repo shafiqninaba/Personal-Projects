@@ -11,5 +11,5 @@ Libraries required:
 2. Pandas
 
 ## Acknowledgments
-* Pieran Data
+* Pierian Data
 
