@@ -16,4 +16,4 @@ https://entuedu-my.sharepoint.com/:u:/g/personal/muhammad489_e_ntu_edu_sg/EaYK7d
 
 ## Acknowledgments
 
-* Pieran Data
+* Pierian Data
