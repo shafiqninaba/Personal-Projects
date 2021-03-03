@@ -19,7 +19,7 @@ Libraries required:
 
 
 ## Acknowledgments
-* Pieran Data
+* Pierian Data
 * Babi Data Set from Facebook Research.
 Full Details: https://research.fb.com/downloads/babi/
 
