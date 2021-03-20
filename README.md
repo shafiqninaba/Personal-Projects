@@ -4,8 +4,10 @@
 This repo holds a collection of my personal projects in Python.
 
 ### Python Projects
-This folder holds my personal Python projects.
+Projects about general Python.
 
 ### Natural Language Processing
-The folders Chatbot, Text Generation, Text Classification & Topic Modelling are projects that I did that are related to Natural Language Processing and machine learning.
+Projects that are related to Natural Language Processing and machine learning.
 
+### Computer Vision
+Projects about Computer Vision using OpenCV.
