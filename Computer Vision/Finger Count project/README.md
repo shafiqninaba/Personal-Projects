@@ -2,7 +2,7 @@
 
 This is a computer vision project in Python that uses OpenCV to make a program that counts the numbers of fingers being held up from one hand. For example,
 
-![alt text](https://github.com/[shafiqninaba]/[Personal-Projects]/blob/[branch]/image.jpg?raw=true)
+![result 1](https://github.com/shafiqninaba/Personal-Projects/blob/main/Computer%20Vision/Finger%20Count%20project/result_1.jpg)
 
 
 
